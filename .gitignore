@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Raw data
-src/infosiga_py/data-raw/
+src/infosiga_py/data-raw/dados_infosiga.zip
