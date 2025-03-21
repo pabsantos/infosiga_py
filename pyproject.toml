@@ -1,5 +1,5 @@
 [project]
-name = "infosiga-py"
+name = "infosiga_py"
 version = "0.1.0"
 description = "Load Road Crash Data From Infosiga.SP"
 readme = "README.md"
