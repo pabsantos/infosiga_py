@@ -1,0 +1,23 @@
+[project]
+name = "infosiga-py"
+version = "0.1.0"
+description = "Load Road Crash Data From Infosiga.SP"
+readme = "README.md"
+authors = [
+    { name = "pabsantos", email = "pabsantos21@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "pyarrow>=19.0.1",
+    "pyjanitor>=0.31.0",
+    "xlrd>=2.0.1",
+]
+
+[project.scripts]
+infosiga-py = "infosiga_py:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
