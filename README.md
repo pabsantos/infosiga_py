@@ -8,7 +8,6 @@ infosiga_py can be installed with:
 
 ```
 pip install git+https://github.com/pabsantos/infosiga_py.git
- 
 ```
 
 ## Usage
