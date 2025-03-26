@@ -1,6 +1,6 @@
 [project]
 name = "infosiga_py"
-version = "0.1.0"
+version = "0.1.1"
 description = "Load Road Crash Data From Infosiga.SP"
 readme = "README.md"
 authors = [
